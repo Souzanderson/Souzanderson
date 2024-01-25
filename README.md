@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Malbizer Solutions**
 
-- 🌱 I’m currently learning **React, Rust, Go**
+- 🌱 I’m currently learning **NestJS, NextJS, Rust, Go**
 
 - 💬 Ask me about **Angular, Javascript, Python**
 
