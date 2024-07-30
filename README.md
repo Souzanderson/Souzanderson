@@ -2,17 +2,12 @@
 
 - 🔭 I’m currently working on **Malbizer Solutions**
 
-- 🌱 I’m currently learning **NestJS, NextJS, Rust, Go**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Angular, Javascript, Python**
+- 💬 Ask me about **Angular, Javascript, Python, Go**
 
 - 📫 How to reach me **anderson@malbizer.com.br**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/malbizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malbizer" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background:white; padding:8px">
