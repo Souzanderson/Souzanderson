@@ -1,4 +1,4 @@
-<h3 align="center">Developer For Fun, Learning for Life</h3>
+<h3 align="center">Learning For Fun, Developer for Life</h3>
 
 - 🔭 I’m currently working at **Malbizer Solutions**
 
