@@ -1,12 +1,12 @@
-<h3 align="center">Learning For Fun, Developer for Life</h3>
+<h3 align="center">Learning for Fun, Developing for Life</h3>
 
 - 🔭 I’m currently working at **Malbizer Solutions**
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Angular, Javascript, Python, Go**
+- 💬 Feel free to ask me about **Angular, JavaScript, Python, Go**
 
-- 📫 How to reach me **anderson@malbizer.com.br**
+- 📫 You can reach me at **anderson@malbizer.com.br**
 
 
 <h3 align="left">Languages and Tools:</h3>
